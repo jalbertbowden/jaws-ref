@@ -1,0 +1,24 @@
+http://www.accessibleprograms.com/js_install/js_install.htm
+
+JS Install.
+
+Accessible Programs is pleased to announce the release of JS Install version 1.1.
+JS Install allows you to easily create setup files that automatically install any set of JAWS scripts. The installation works very similar to the method used to install any other software. you select which files are going to be installed and other information from easy to use wizard screens, and the setup file is automatically generated. The setup file size is approximately 300k. When a setup.exe file created by JS Install is launched, a list is displayed on the screen showing all versions of JAWS that are installed on the user's computer. The user selects one of the versions and the scripts are then installed in the correct folder. Then the scripts are automatically recompiled in the version of JAWS that was selected.
+With JS Install you can create a very simple setup file that simply installs your scripts, or you can choose from various options such as ReadMe files, Help files, Start menu and Desktop icons, license screen etc. You don't need to know anything about scripting or programming to use JS Install. You will need to know how to create new folders and how to use copy and paste to move your installation files into a folder that you have created.
+
+New changes in JS Install version 1.1:
+
+Fixed a bug where the program didn't properly report when JS Install wasn't installed on a computer.
+The currently active configuration is now displayed in the application title.
+Click on the following link to download JS Install which also includes an easy to read help file that gives a detailed description of the program and how to use it.
+Download JS Install 1.1, file size 1.2 MB
+or you can download the same file packaged in a zip archive:
+Download JS Install 1.1 zip file, file size 1.2 MB
+
+You will also need to download and install the free Inno Setup program version 5.0.0 or later. You don't need to know how to use this program, but JS Install requires that it be installed on your computer. The latest version is available at:
+www.JRSoftware.org
+Or you can click on the following direct download link to download Inno Setup 5.2.3 which has been tested and is known to be compatible with JS Install:
+Download Inno Setup 5.2.3, File size 1.4 MB
+
+If you are interested in learning more about the Inno Setup program you can download it's documentation in .txt format at:
+Download Inno Setup documentation, file size 92k
